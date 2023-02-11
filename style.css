@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.cssbutton{
+    height: 1.6rem;
+    width: 1.6rem;
+    border: solid 2px black;
+    border-radius: 10%;
+}
+
+.month{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.jan{
+    width: 8%;
+}
+
